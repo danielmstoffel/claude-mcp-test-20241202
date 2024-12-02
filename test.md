@@ -1,8 +1,1 @@
-# MCP Test File
-
-This file was created using Claude's MCP GitHub integration.
-
-## Features Tested:
-- Repository creation
-- File creation
-- Markdown formatting
+IyBNQ1AgVGVzdCBGaWxlCgpUaGlzIGZpbGUgd2FzIGNyZWF0ZWQgdXNpbmcgQ2xhdWRlJ3MgTUNQIEdpdEh1YiBpbnRlZ3JhdGlvbi4KCiMjIEZlYXR1cmVzIFRlc3RlZDoKLSBSZXBvc2l0b3J5IGNyZWF0aW9uCi0gRmlsZSBjcmVhdGlvbgotIE1hcmtkb3duIGZvcm1hdHRpbmc=
